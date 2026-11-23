@@ -1,9 +1,17 @@
-# JavaScript Practice
+## JavaScript Practice Guide
 
-A repository focused on learning and practicing JavaScript.
+This repository supports practical JavaScript learning.
 
-## Purpose
-Practice JavaScript programming concepts through examples.
+### Recommended Practice
 
-## Getting Started
-Review the source files and run the examples in an appropriate JavaScript environment.
+- Understand variables and data types.
+- Practice functions and conditions.
+- Work with arrays and objects.
+- Explore loops and iteration.
+- Practice DOM manipulation.
+- Learn event handling.
+
+### Learning Approach
+
+Read the code, execute the examples,
+and modify them to understand their behavior.
