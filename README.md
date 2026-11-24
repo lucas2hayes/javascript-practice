@@ -15,3 +15,12 @@ This repository supports practical JavaScript learning.
 
 Read the code, execute the examples,
 and modify them to understand their behavior.
+## Manual Testing Checklist
+
+- [ ] Run an existing JavaScript example and check the output.
+- [ ] Change a sample input and compare the result.
+- [ ] Check the browser console for runtime errors.
+
+### Test Notes
+
+Record the observed result and any reproducible issue after running the tests.
